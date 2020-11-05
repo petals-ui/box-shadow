@@ -1,3 +1,3 @@
-# Petals Template
+# Petals Box-shadow
 
-Scaffold template for petals (components)
+Box-shadow virtual component
